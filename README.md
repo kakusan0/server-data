@@ -41,7 +41,7 @@
 
 |簡単|||
 |---:|---:|---:|
-|artifacts(サーバ本体|||
+|artifacts(サーバ本体)|||
 |\|__|txData|
 ||\|__||
 ||start_5848_default.bat|||
