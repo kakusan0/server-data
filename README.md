@@ -2,7 +2,7 @@
 - グランドセフトオートオンライン（ローカルサーバ）
 
 - 拡張機能を開発した。
-
+# 本題
 <details>
 
 <summary>開発環境</summary>
@@ -32,7 +32,6 @@
 
 </details>
 
-# 本題
 ||簡単|難しい|
 |:---:|:---:|:---:|
 ||https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
