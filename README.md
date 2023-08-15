@@ -37,6 +37,15 @@
 |:---:|:---:|
 |https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
 
+- ディレクトリ構造(fiveMの公式サイト通り)
+
+|簡単|||
+|---:|---:|---:|
+|artifacts(サーバ本体|||
+|\|__|txData|
+||\|__||
+||start_5848_default.bat|||
+
 - [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./server-data　に格納
 
 # README.mdの書き方
