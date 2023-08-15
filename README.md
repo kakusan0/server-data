@@ -1,4 +1,4 @@
-## 概要
+# 概要
 - グランドセフトオートオンライン（ローカルサーバ）
 
 - 拡張機能を開発した。
@@ -32,9 +32,13 @@
 
 </details>
 
-## 本題
+# 本題
 |簡単|難しい|
 |:---:|:---:|
 |https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
 
 - [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./server-data　に格納
+
+# README.mdの書き方　公式github監修
+- [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [高度なフォーマットを使用して作業する](https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting)
