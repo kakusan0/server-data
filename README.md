@@ -36,7 +36,7 @@
 ||簡単|難しい|
 |:---:|:---:|:---:|
 ||https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
-|[設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg)|./FXServer/txData/CFXDefault_D5D44F.base/|./server-data/|
+|[設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg)|./FXServer/txData/CFXDefault_D5D44F.base/server.cfg|./server-data/server.cfg|
 
 # README.mdの書き方
 - [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
