@@ -37,21 +37,7 @@
 |:---:|:---:|
 |https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
 
-<details>
-<summary>ディレクトリ構造説明(簡単)</summary>
-
-||artifacts(サーバ本体)||||
-|---:|---:|---:|---:|---:|
-|\|__|txData|
-||\|__|CFXDefault_D5D44F.base|
-||start_5848_default.bat(起動用)|\|__|cache(サーバ起動時に自動生成)|
-|||default|resources(mod)|
-|||admins.json(管理者権限設定)|\|__|MOD...etc
-||||server.cfg(設定ファイル)|
-||||server.cfg.bkp(設定ファイルバックアップ)|
-</details>
-
-- [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./server-data　に格納
+- [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./FXServer/txData/CFXDefault_D5D44F.base/ or ./server-data/　に格納
 
 # README.mdの書き方
 - [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
