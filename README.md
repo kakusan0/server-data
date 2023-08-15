@@ -37,4 +37,4 @@
 |:---:|:---:|
 |https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
 
-- [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg)
+- [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./server-data　に格納
