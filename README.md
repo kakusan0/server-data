@@ -39,6 +39,6 @@
 
 - [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./server-data　に格納
 
-# README.mdの書き方　公式github監修
+# README.mdの書き方
 - [基本的な書き方とフォーマットの構文](https://docs.github.com/ja/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [高度なフォーマットを使用して作業する](https://docs.github.com/ja/get-started/writing-on-github/working-with-advanced-formatting)
