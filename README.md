@@ -37,11 +37,11 @@
 |:---:|:---:|
 |https://docs.fivem.net/docs/server-manual/setting-up-a-server-txadmin/|https://docs.fivem.net/docs/server-manual/setting-up-a-server-vanilla/|
 
-- ディレクトリ構造(fiveMの公式サイト通り)
+<details>
+<summary>ディレクトリ構造説明(簡単)</summary>
 
-|簡単|||||
+||artifacts(サーバ本体)||||
 |---:|---:|---:|---:|---:|
-|artifacts(サーバ本体)|
 |\|__|txData|
 ||\|__|CFXDefault_D5D44F.base|
 ||start_5848_default.bat(起動用)|\|__|cache(サーバ起動時に自動生成)|
@@ -49,6 +49,7 @@
 |||admins.json(管理者権限設定)|\|__|MOD...etc
 ||||server.cfg(設定ファイル)|
 ||||server.cfg.bkp(設定ファイルバックアップ)|
+</details>
 
 - [設定ファイル](https://github.com/kakusan0/server-data-key/blob/main/server.cfg) ←./server-data　に格納
 
